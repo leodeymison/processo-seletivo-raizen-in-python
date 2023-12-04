@@ -1,0 +1,7 @@
+[ ] - Problema de importação
+[ ] - Fazer test unitário
+[ ] - Buscar por data
+[ ] - Buscar por geolocalização
+[ ] - Dar opção para 2 formas de API (flask, django)
+[ ] - Salvar locais no db e ir buscando todos os dias usando cronjob a temperatura daquele lugar
+[ ] - Configurar tudo em um docker compose

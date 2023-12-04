@@ -16,3 +16,13 @@ porém a chamada da API deve ser feita diretamente;
 aplicação;
 - Bônus: envie para o repositório quaisquer artefatos que tenha utilizado para implementar essa
 aplicação (collections do postman, testes unitários, etc);
+
+
+main.temp Temperatura. Padrão da unidade: Kelvin, Métrico: Celsius, Imperial: Fahrenheit
+main.feels_like Temperatura. Este parâmetro de temperatura é responsável pela percepção humana do clima. Padrão da unidade: Kelvin, Métrico: Celsius, Imperial: Fahrenheit
+main.pressure Pressão atmosférica ao nível do mar, hPa
+main.humidity Umidade, %
+main.temp_min Temperatura mínima no momento. Esta é a temperatura mínima observada atualmente (em grandes megalópoles e áreas urbanas). Encontre mais informações aqui. Padrão da unidade: Kelvin, Métrico: Celsius, Imperial: Fahrenheit
+main.temp_max Temperatura máxima no momento. Esta é a temperatura máxima observada atualmente (em grandes megalópoles e áreas urbanas). Encontre mais informações aqui. Padrão da unidade: Kelvin, Métrico: Celsius, Imperial: Fahrenheit
+main.sea_level Pressão atmosférica ao nível do mar, hPa
+main.grnd_level Pressão atmosférica ao nível do solo, hPa
